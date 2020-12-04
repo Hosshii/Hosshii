@@ -7,7 +7,7 @@ I'm Hosshii, a member from [Digital Creators Club traP](https://trap.jp).
 
 ![Hosshii's github stats](https://github-readme-stats.vercel.app/api?username=Hosshii&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosshii&hide=html,Makefile&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosshii&exclude_repo=Pisucon2,prezto,Pisucon&hide=html,Makefile&layout=compact)
 
 <!--
 **Hosshii/Hosshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
